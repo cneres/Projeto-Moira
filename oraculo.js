@@ -26,223 +26,274 @@ var audio25 = new Audio("audiofinalizado\\audio25.mp3");
 var audio26 = new Audio("audiofinalizado\\audio26.mp3");
 var audio27 = new Audio("audiofinalizado\\audio27.mp3");
 
-function inBtn1() {
+function inBtnA1() {
     audio1.play();
+    document.getElementById('corpito').style.backgroundImage="url(imgs/A-1.PNG)";
 }
 
-function outBtn1() {
+function outBtnA1() {
     audio1.pause();
     audio1.currentTime = 0;
+    document.getElementById('corpito').style.backgroundImage="url(imgs/background.PNG)";
+    
 }
 
-function inBtn2() {
+function inBtnB1() {
     audio2.play();
+    document.getElementById('corpito').style.backgroundImage="url(imgs/B-1.PNG)";
 }
 
-function outBtn2() {
+function outBtnB1() {
     audio2.pause();
     audio2.currentTime = 0;
+    document.getElementById('corpito').style.backgroundImage="url(imgs/background.PNG)";
 }
 
-function inBtn3() {
+function inBtnC1() {
     audio3.play();
+    document.getElementById('corpito').style.backgroundImage="url(imgs/C-1.PNG)";
 }
 
-function outBtn3() {
+function outBtnC1() {
     audio3.pause();
     audio3.currentTime = 0;
+    document.getElementById('corpito').style.backgroundImage="url(imgs/background.PNG)";
 }
-function inBtn4() {
+function inBtnA2() {
     audio4.play();
+    document.getElementById('corpito').style.backgroundImage="url(imgs/A-2.PNG)";
 }
 
-function outBtn4() {
+function outBtnA2() {
     audio4.pause();
     audio4.currentTime = 0;
+    document.getElementById('corpito').style.backgroundImage="url(imgs/background.PNG)";
 }
-function inBtn5() {
+function inBtnB2() {
     audio5.play();
+    document.getElementById('corpito').style.backgroundImage="url(imgs/B-2.PNG)";
 }
 
-function outBtn5() {
+function outBtnB2() {
     audio5.pause();
     audio5.currentTime = 0;
+    document.getElementById('corpito').style.backgroundImage="url(imgs/background.PNG)";
 }
-function inBtn6() {
+function inBtnC2() {
     audio6.play();
+    document.getElementById('corpito').style.backgroundImage="url(imgs/C-2.PNG)";
 }
 
-function outBtn6() {
+function outBtnC2() {
     audio6.pause();
     audio6.currentTime = 0;
+    document.getElementById('corpito').style.backgroundImage="url(imgs/background.PNG)";
 }
-function inBtn7() {
+function inBtnA3() {
     audio7.play();
+    document.getElementById('corpito').style.backgroundImage="url(imgs/A-3.PNG)";
 }
 
-function outBtn7() {
+function outBtnA3() {
     audio7.pause();
     audio7.currentTime = 0;
+    document.getElementById('corpito').style.backgroundImage="url(imgs/background.PNG)";
 }
-function inBtn8() {
+function inBtnB3() {
     audio8.play();
+    document.getElementById('corpito').style.backgroundImage="url(imgs/B-3.PNG)";
 }
 
-function outBtn8() {
+function outBtnB3() {
     audio8.pause();
     audio8.currentTime = 0;
+    document.getElementById('corpito').style.backgroundImage="url(imgs/background.PNG)";
 }
-function inBtn9() {
+function inBtnC3() {
     audio9.play();
+    document.getElementById('corpito').style.backgroundImage="url(imgs/C-3.PNG)";
 }
 
-function outBtn9() {
+function outBtnC3() {
     audio9.pause();
     audio9.currentTime = 0;
+    document.getElementById('corpito').style.backgroundImage="url(imgs/background.PNG)";
 }
-function inBtn10() {
+function inBtnA4() {
     audio10.play();
+    document.getElementById('corpito').style.backgroundImage="url(imgs/A-4.PNG)";
 }
 
-function outBtn10() {
+function outBtnA4() {
     audio10.pause();
     audio10.currentTime = 0;
+    document.getElementById('corpito').style.backgroundImage="url(imgs/background.PNG)";
 }
-function inBtn11() {
+function inBtnB4() {
     audio11.play();
+    document.getElementById('corpito').style.backgroundImage="url(imgs/B-4.PNG)";
 }
 
-function outBtn11() {
+function outBtnB4() {
     audio11.pause();
     audio11.currentTime = 0;
+    document.getElementById('corpito').style.backgroundImage="url(imgs/background.PNG)";
 }
-function inBtn12() {
+function inBtnC4() {
     audio12.play();
+    document.getElementById('corpito').style.backgroundImage="url(imgs/C-4.PNG)";
 }
 
-function outBtn12() {
+function outBtnC4() {
     audio12.pause();
     audio12.currentTime = 0;
+    document.getElementById('corpito').style.backgroundImage="url(imgs/background.PNG)";
 }
-function inBtn13() {
+function inBtnA5() {
     audio13.play();
+    document.getElementById('corpito').style.backgroundImage="url(imgs/A-5.PNG)";
 }
 
-function outBtn13() {
+function outBtnA5() {
     audio13.pause();
     audio13.currentTime = 0;
+    document.getElementById('corpito').style.backgroundImage="url(imgs/background.PNG)";
 }
-function inBtn14() {
+function inBtnB5() {
     audio14.play();
+    document.getElementById('corpito').style.backgroundImage="url(imgs/B-5.PNG)";
 }
 
-function outBtn14() {
+function outBtnB5() {
     audio14.pause();
     audio14.currentTime = 0;
+    document.getElementById('corpito').style.backgroundImage="url(imgs/background.PNG)";
 }
-function inBtn15() {
+function inBtnC5() {
     audio15.play();
+    document.getElementById('corpito').style.backgroundImage="url(imgs/C-4.PNG)";
 }
 
-function outBtn15() {
+function outBtnC5() {
     audio15.pause();
     audio15.currentTime = 0;
+    document.getElementById('corpito').style.backgroundImage="url(imgs/background.PNG)";
 }
-function inBtn16() {
+function inBtnA6() {
     audio16.play();
+    document.getElementById('corpito').style.backgroundImage="url(imgs/A-4.PNG)";
 }
 
-function outBtn16() {
+function outBtnA6() {
     audio16.pause();
     audio16.currentTime = 0;
+    document.getElementById('corpito').style.backgroundImage="url(imgs/background.PNG)";
 }
-function inBtn17() {
+function inBtnB6() {
     audio17.play();
+    document.getElementById('corpito').style.backgroundImage="url(imgs/B-6.PNG)";
 }
 
-function outBtn17() {
+function outBtnB6() {
     audio17.pause();
     audio17.currentTime = 0;
+    document.getElementById('corpito').style.backgroundImage="url(imgs/background.PNG)";
 }
-function inBtn18() {
+function inBtnC6() {
     audio18.play();
+    document.getElementById('corpito').style.backgroundImage="url(imgs/C-6.PNG)";
 }
 
-function outBtn18() {
+function outBtnC6() {
     audio18.pause();
     audio18.currentTime = 0;
+    document.getElementById('corpito').style.backgroundImage="url(imgs/background.PNG)";
 }
-function inBtn19() {
+function inBtnA7() {
     audio19.play();
+    document.getElementById('corpito').style.backgroundImage="url(imgs/A-7.PNG)";
 }
 
-function outBtn19() {
+function outBtnA7() {
     audio19.pause();
     audio19.currentTime = 0;
+    document.getElementById('corpito').style.backgroundImage="url(imgs/background.PNG)";
 }
-function inBtn20() {
+function inBtnB7() {
     audio20.play();
+    document.getElementById('corpito').style.backgroundImage="url(imgs/B-7.PNG)";
 }
 
-function outBtn20() {
+function outBtnB7() {
     audio20.pause();
     audio20.currentTime = 0;
+    document.getElementById('corpito').style.backgroundImage="url(imgs/background.PNG)";
 }
-function inBtn21() {
+function inBtnC7() {
     audio21.play();
+    document.getElementById('corpito').style.backgroundImage="url(imgs/C-7.PNG)";
 }
-
-function outBtn21() {
+function outBtnC7() {
     audio21.pause();
     audio21.currentTime = 0;
+    document.getElementById('corpito').style.backgroundImage="url(imgs/background.PNG)";
 }
-function inBtn22() {
+function inBtnA8() {
     audio22.play();
+    document.getElementById('corpito').style.backgroundImage="url(imgs/A-8.PNG)";
 }
 
-function outBtn22() {
+function outBtnA8() {
     audio22.pause();
     audio22.currentTime = 0;
+    document.getElementById('corpito').style.backgroundImage="url(imgs/background.PNG)";
 }
-function inBtn23() {
+function inBtnB8() {
     audio23.play();
+    document.getElementById('corpito').style.backgroundImage="url(imgs/B-8.PNG)";
 }
 
-function outBtn23() {
+function outBtnB8() {
     audio23.pause();
     audio23.currentTime = 0;
+    document.getElementById('corpito').style.backgroundImage="url(imgs/background.PNG)";
 }
-function inBtn24() {
+function inBtnC8() {
     audio24.play();
+    document.getElementById('corpito').style.backgroundImage="url(imgs/C-8.PNG)";
 }
 
-function outBtn24() {
+function outBtnC8() {
     audio24.pause();
     audio24.currentTime = 0;
+    document.getElementById('corpito').style.backgroundImage="url(imgs/background.PNG)";
 }
-function inBtn25() {
+function inBtnA9() {
     audio25.play();
+    document.getElementById('corpito').style.backgroundImage="url(imgs/A-9.PNG)";
 }
-
-function outBtn25() {
+function outBtnA9() {
     audio25.pause();
     audio25.currentTime = 0;
+    document.getElementById('corpito').style.backgroundImage="url(imgs/background.PNG)";
 }
-function inBtn26() {
+function inBtnB9() {
     audio26.play();
+    document.getElementById('corpito').style.backgroundImage="url(imgs/B-9.PNG)";
 }
-
-function outBtn26() {
+function outBtnB9() {
     audio26.pause();
     audio26.currentTime = 0;
+    document.getElementById('corpito').style.backgroundImage="url(imgs/background.PNG)";
 }
-function inBtn27() {
+function inBtnC9() {
     audio27.play();
+    document.getElementById('corpito').style.backgroundImage="url(imgs/C-9.PNG)";
 }
-
-function outBtn27() {
+function outBtnC9() {
     audio27.pause();
     audio27.currentTime = 0;
+    document.getElementById('corpito').style.backgroundImage="url(imgs/background.PNG)";
 }
 
 

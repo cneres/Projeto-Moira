@@ -1,19 +1,22 @@
-body {
+#corpito {
 
   text-align: center;
+  background-image: url("imgs/background.PNG"); 
+  background-size: 100%;
+  /* background-color: black; */
 
-}
-
-.topo{
-
-  margin-top: 50px;
 }
 
 .botao {
 
     outline: none;
-    margin: 10;
-    height: 40;
+    margin: 5;
+    height: 38;
     width: 250;
+    /* background-color: transparent;
+    border-color: transparent;
+    color: transparent; */
 }
+
+
 
